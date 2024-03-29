@@ -1,0 +1,7 @@
+C:\Users\a994159\source\repos\PruebaBatch01\PruebaBatch01\obj\x64\Debug\netcoreapp3.1\PruebaBatch01.csproj.AssemblyReference.cache
+C:\Users\a994159\source\repos\PruebaBatch01\PruebaBatch01\obj\x64\Debug\netcoreapp3.1\PruebaBatch01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a994159\source\repos\PruebaBatch01\PruebaBatch01\obj\x64\Debug\netcoreapp3.1\PruebaBatch01.AssemblyInfoInputs.cache
+C:\Users\a994159\source\repos\PruebaBatch01\PruebaBatch01\obj\x64\Debug\netcoreapp3.1\PruebaBatch01.AssemblyInfo.cs
+C:\Users\a994159\source\repos\PruebaBatch01\PruebaBatch01\obj\x64\Debug\netcoreapp3.1\PruebaBatch01.csproj.CoreCompileInputs.cache
+C:\Users\a994159\source\repos\PruebaBatch01\PruebaBatch01\obj\x64\Debug\netcoreapp3.1\PruebaBatch01.dll
+C:\Users\a994159\source\repos\PruebaBatch01\PruebaBatch01\obj\x64\Debug\netcoreapp3.1\PruebaBatch01.pdb
